@@ -2,3 +2,4 @@
 __pychache__/
 tools/__pychache__/
 output/
+.venv/
